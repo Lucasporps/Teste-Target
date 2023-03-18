@@ -1,0 +1,10 @@
+1) 91 - código Exercicio1
+2) código Exercicio2
+3) a) 9
+   b) 128
+   c) 49
+   d) 82
+   e) 13
+   f) 20
+4) Independente das condições, no exato momento em que eles se cruzam, estão exatamente a mesma distância de Ribeirão Preto, pois estão no mesmo ponto de referência da rodovia.
+5) código Exercicio5
